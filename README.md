@@ -1,4 +1,2 @@
 # conflict-resolustion
-resolving conflicts is "fun"
-
-##subheading
+I like subheaders
